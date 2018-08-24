@@ -1,185 +1,78 @@
-full_title: Fifth ACM/IEEE Workshop on Hot Topics in Web Systems and Technologies
-short_title: Hotweb 2017
-email: hotweb2017@gmail.com
+full_title: 11th US National Combustion Meeting
+short_title: US NCM 2018
+email: webmaster@wssci.us
 description: > # this means to ignore newlines until "baseurl:"
-  HotWeb is a forum bringing together researchers and practitioners interested 
-  in the design, implementation, and evaluation of Internet systems and applications. 
-location: San Jose, CA, 2017
-date: October 14, 2017
-logo_path: ./assets/images/logo2017.jpg
+  Premier combustion science meeting in the US, organized biennially.
+location: Pasadena, CA, USA
+date: March 24-27, 2019
+program_link:
+
+logo_path: ./assets/images/WSSCI-Logo-web.png
 slideshow:
   - id: 0
     image_path: ./assets/images/slideshow/image0.jpg
-    description: San Jose night scene
-    photographer_name: Mike Boening
-    photographer_link: https://www.flickr.com/photos/memoriesbymike/
+    description: Pasadena City Hall
+    photographer_name: Michael Chen
+    photographer_link: https://www.flickr.com/photos/mikechen-metalman/
     active: True
   - id: 1
     image_path: ./assets/images/slideshow/image1.jpg
-    description: San Jose Museum of Art
-    photographer_name: Bryan Nabong
-    photographer_link: https://www.flickr.com/photos/bongarang/
+    description: Huntington Library & Botanical Gardens - Pasadena, California
+    photographer_name: Chris Goldberg
+    photographer_link: https://www.flickr.com/photos/chrisgold/
   - id: 2
     image_path: ./assets/images/slideshow/image2.jpg
-    description: San Jose State University
-    photographer_name: David Sawyer
-    photographer_link: https://www.flickr.com/photos/18702768@N04/
+    description: California Science Center, Los Angeles
+    photographer_name: Fabio Achilli
+    photographer_link: https://www.flickr.com/photos/travelourplanet/
   - id: 3
     image_path: ./assets/images/slideshow/image3.jpg
-    description: Cathedral Basilica of St. Joseph
-    photographer_name: Patricia Montes Gregory
-    photographer_link: https://www.flickr.com/photos/32159045@N02/
+    description: Image 17540 (USA/California/Los Angeles County/Pasadena/CalTech)
+    photographer_name: Vlad Butsky
+    photographer_link: https://www.flickr.com/photos/butsky/
   - id: 4
     image_path: ./assets/images/slideshow/image4.jpg
-    description: Winchester Mystery House
-    photographer_name: Pomax
-    photographer_link: https://www.flickr.com/photos/pomax/
-  - id: 5
-    image_path: ./assets/images/slideshow/image5.jpg
-    description: Rose Garden Branch Library
-    photographer_name: John Menard
-    photographer_link: https://www.flickr.com/photos/jmenard48/
-navbar:
-  - id: 0
-    label: Home
-    path: /
-    visible: True
-  - id: 1
-    label: Organization
-    path: /organization.html
-    visible: True
-  - id: 2
-    label: Call for Papers
-    path: /cfp.html
-    visible: True
-  - id: 3
-    label: Submission
-    path: /submission.html
-    visible: True
-  - id: 4
-    label: Programs
-    path: /program.html
-    visible: True
-  - id: 5
-    label: Venue
-    path: /venue.html
-    visible: True
-  - id: 6
-    label: Registration
-    path: /registration.html
-    visible: True
-deadlines:
-  - date: 2017-7-6
-    timezone: 9PM PDT
-    text: Submission deadline (extended)
-    pass_due: False
-  - date: 2017-8-7
-    text: Notification of acceptance
-    pass_due: False
-  - date: 2017-8-17
-    text: Camera-ready copy due
-    pass_due: False
-  - date: 2017-10-14
-    text: Workshop
-    pass_due: False
-news:
-  - date: 2017-10-14
-    text: Workshop has been successfully held
-  - date: 2017-05-12
-    text: Submission site online
-  - date: 2017-03-08
-    text: Website online
-sponsors:
-  - name: ACM
-    logo_path: ./assets/images/sponsors/acm-logo.png
-  - name: IEEE
-    logo_path: ./assets/images/sponsors/ieee-logo.gif
-social_media:
-  facebook_link: https://www.facebook.com/hotwebseries/
-  twitter_link:
-program_chair:
-  - name: Qun Li
-    org: College of William and Mary (USA)
-    homepage: http://www.cs.wm.edu/~liqun
-  - name: Songqing Chen
-    org: George Mason University (USA)
-    homepage: http://www.cs.gmu.edu/~sqchen/
-steering_committees:
-  - name: Azer Bestavros
-    org: Boston University (USA)
-    homepage: http://azer.bestavros.net/
-  - name: Songqing Chen
-    org: George Mason University (USA)
-    homepage: http://www.cs.gmu.edu/~sqchen/
-  - name: Fred Douglis
-    org: Dell EMC (USA)
-    homepage: http://www.douglis.org/fred/
-  - name: Arun Iyengar
-    org: IBM (USA)
-    homepage: http://researcher.watson.ibm.com/researcher/view.php?person=us-aruni
-  - name: Michael Rabinovich
-    org: Case Western Reserve University (USA)
-    homepage: http://engr.case.edu/rabinovich_michael/
-  - name: Pablo Rodriguez
-    org: Telefonica Research (Spain)
-    homepage: http://www.rodriguezrodriguez.com/
-  - name: Weisong Shi
-    org: Wayne State University (USA)
-    homepage: http://www.cs.wayne.edu/~weisong/
-technical_program_committees:
-  - name: Azer Bestavros 
-    org: Boston University (USA)
-    homepage: http://www.bu.edu/cs/azer-bestavros/
-  - name: Pei Cao
-    org: Google (USA)
-    homepage: http://crypto.stanford.edu/~cao/
-  - name: Brian Davison
-    org: Lehigh University (USA)
-    homepage: http://www.cse.lehigh.edu/~brian/
-  - name: Fred Douglis
-    org: Dell EMC (USA)
-    homepage: http://www.douglis.org/fred/
-  - name: Giancarlo Fortino
-    org: University of Calabria (Italy)
-    homepage: http://si.deis.unical.it/fortino/
-  - name: Lei Guo
-    org: Google (USA)
-    homepage: https://scholar.google.com/citations?user=h6Nw2X4AAAAJ&hl=en
-  - name: Yang Guo
-    org: NIST (USA)
-    homepage: https://sites.google.com/site/yangguohomepage/
-  - name: Arun Iyengar
-    org: IBM (USA)
-    homepage: http://researcher.watson.ibm.com/researcher/view.php?person=us-aruni
-  - name: Aziz Mohaisen
-    org: SUNY Buffalo (USA)
-    homepage: http://www.cse.buffalo.edu/~mohaisen/
-  - name: Guillaume Pierre
-    org: Rennes 1 University (France)
-    homepage: http://www.globule.org/~gpierre/
-  - name: Michael Rabinovich
-    org: Case Western Reserve University (USA)
-    homepage: http://engr.case.edu/rabinovich_michael/
-  - name: Thomas Steiner
-    org: Google (Germany)
-    homepage: https://research.google.com/pubs/author39477.html
-  - name: Christopher Stewart
-    org: Ohio State University (USA)
-    homepage: http://web.cse.ohio-state.edu/~stewart.962/
-  - name: Vishy Swaminathan
-    org: Adobe Research (USA)
-    homepage: https://research.adobe.com/person/vishy-swaminathan/
-  - name: Qingyang Wang
-    org: Louisiana State University (USA)
-    homepage: http://csc.lsu.edu/~qywang/
-  - name: Craig Wills
-    org: Worcester Polytechnic Institute (USA)
-    homepage: http://web.cs.wpi.edu/~cew/
-  - name: Yifan Zhang
-    org: SUNY Binghamton (USA)
-    homepage: http://www.cs.binghamton.edu/~zhangy/
-webmaster:
-  - name: Shanhe Yi
-    org: College of William and Mary (USA)
-    homepage: http://www.cs.wm.edu/~syi
+    description: Campus of the California Institute of Technology
+    photographer_name: Alan Cordova
+    photographer_link: https://www.flickr.com/photos/acordova/
 
+deadlines:
+  - date: TBA
+    timezone: 11:59PM PDT
+    text: Submission deadline
+    pass_due: False
+  - date: TBA
+    text: Registration deadline
+    pass_due: False
+
+news:
+  - date: 2018-08-26
+    text: Website online
+
+sponsors:
+  - name: Combustion Institute
+    url: https://www.combustioninstitute.org
+    logo_path: ./assets/images/sponsors/CI-logo.png
+
+social_media:
+  facebook_link: https://www.facebook.com/CombustionInstitute
+  twitter_link: https://twitter.com/combustion_intl
+
+program_chairs:
+  # put list of program committee chairs here
+
+host_committee:
+  - name: Guillaume Blanqurt
+    org: Caltech
+    homepage: http://eas.caltech.edu/people/gblanqu
+  - name: Paul Ronney
+    org: University of Southern California
+    homepage: http://ronney.usc.edu
+
+technical_program_committee:
+  # put list of people on technical committee here
+
+webmaster:
+  - name: Kyle Niemeyer
+    org: Oregon State University
+    homepage: https://niemeyer-research-group.github.io

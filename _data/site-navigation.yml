@@ -1,0 +1,29 @@
+navbar:
+  - id: 0
+    label: Home
+    path: /
+    visible: True
+  - id: 1
+    label: Organization
+    path: /organization.html
+    visible: True
+  - id: 2
+    label: Call for Papers
+    path: /cfp.html
+    visible: True
+  - id: 3
+    label: Submission
+    path: /submission.html
+    visible: True
+  - id: 4
+    label: Venue
+    path: /venue.html
+    visible: True
+  - id: 5
+    label: Registration
+    path: /registration.html
+    visible: True
+  - id: 6
+    label: Program
+    path: /program.html
+    visible: True

@@ -1,5 +1,5 @@
-- date: "2017-10-14"
-  dateReadable: "October 14"
+- date: "2019-03-27"
+  dateReadable: "March 27"
   timeslots:
   - startTime: "8:50"
     endTime: "9:00"
@@ -17,11 +17,11 @@
     endTime: "12:00"
     title: "WEB"
     type: "presentation"
-    events: 
+    events:
       - title: "Precog: Action-Based Time-Shifted Prefetching for Web Applications on Mobile Devices"
         speakers: "Shruti Sanadhya:Hewlett Packard Labs, Palo Alto, CA; Uma Parthavi Moravapalle:Georgia Institute of Technology, Atlanta, GA; Kyu-Han Kim:Hewlett Packard Labs, Palo Alto, CA; Raghupathy Sivakumar:Georgia Institute of Technology, Atlanta, GA"
       - title: "An Empirical Study of Financial Incentivized Question Answering in Social Websites"
-        speakers: "Huangxin Wang:George Mason University; Zhonghua Xi:George Mason University; Jean X. Zhang:Virginia Commonwealth University; Fei Li:George Mason University" 
+        speakers: "Huangxin Wang:George Mason University; Zhonghua Xi:George Mason University; Jean X. Zhang:Virginia Commonwealth University; Fei Li:George Mason University"
       - title: "Automated Least Privileges in Cloud-Based Web Services"
         speakers: "Matthew Sanders:Colorado School of Mines; Chuan Yue:Colorado School of Mines"
       - title: "Extracting Web Information using Representation Patterns"
@@ -36,7 +36,7 @@
     endTime: "15:00"
     title: "SECURITY"
     type: "presentation"
-    events: 
+    events:
       - title: "Rethinking Information Sharing for Threat Intelligence"
         speakers: "Aziz Mohaisen:University of Central Florida; Omar Al-Ibrahim:University of Central Florida; Charles Kamhoua:US Army Research Laboratory; Kevin Kwiat:Air Force Research Laboratory; Laurent L. Njilla:Air Force Research Laboratory"
       - title: "Graphical passwords for older computer users"
@@ -55,7 +55,7 @@
     endTime: "16:40"
     title: "ALL ABOUT INTERNET"
     type: "presentation"
-    events: 
+    events:
       - title: "Edge Computing Enabled Smart Firefighting: Opportunities and Challenges"
         speakers: "Xiaopei Wu:Wayne State University; Robert Dunne:Wayne State University, Detroit Fire Department; Qingyang Zhang:Anhui University, Wayne State University; Weisong Shi:Wayne State University; "
       - title: "Graph-Pubsub: An Efficient Publish/Subscribe Architecture with Graph-Based Information Relationships"
@@ -64,4 +64,3 @@
         speakers: "Mustafa Canim:IBM Research; Cristina Cornelio:IBM Research; Robert Farrell:IBM Research; Achille Fokoue:IBM Research; Kyle Gao:IBM Research; John Gunnels:IBM Research; Arun Iyengar:IBM Research; Ryan Musa:IBM Research; Mariano Rodriguez-Muro:IBM Research"
       - title: "Enabling Distributed Revision Control Systems in Delay-Tolerant"
         speakers: "Philipp Hagemeister:Heinrich-Heine Universität Düsseldorf; Martin Mauve:Heinrich-Heine Universität Düsseldorf"
-    

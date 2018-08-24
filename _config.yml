@@ -24,7 +24,9 @@ markdown: kramdown
 exclude:
   - Gemfile
   - Gemfile.lock
+  - Makefile
+  - README.md
+  - preview
 
-timezone: America/New_York
-google_analytics: UA-99357652-1
-
+timezone: America/Los_Angeles
+google_analytics:

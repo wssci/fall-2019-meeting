@@ -11,33 +11,37 @@
                 <p class="text-center mb-0">{{ site.data.conference.location }}</p>
             </div>
 
-        </div>     
+        </div>
 
         <!--slide show-->
         <div class="col-xs-6 col-sm-6 col-md-6 col-lg-7 col-xl-6">
-                
-                <div id="myCarousel" class="carousel slide" data-ride="carousel">
 
-                        <div class="carousel-inner" role="listbox">
-                            
-                            {% for slide in site.data.conference.slideshow %}
-                            {% if page.slide_id and page.slide_id  == slide.id %}
-                            <div class="carousel-item active">
-                            {% else %}
-                            <div class="carousel-item">
-                            {% endif %}
-                                <!--<img class="img-fluid" src="{{ site.baseurl }}{{ slide.image_path }}" alt="{{ slide.description }}">-->
-                                <img class="img-fluid" src="{{ slide.image_path }}" alt="{{ slide.description }}">
-                                <div class="carousel-caption d-none d-md-block text-muted">
-                                    <p class="align-bottom"> {{ slide.description }}, by <a href="{{ slide.photographer_link }}">{{slide.photographer_name}}</a>, 
-                                        under <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">Creative Commons license</a>.
-                                    </p>
-                                </div>
-                            </div>
-                            {% endfor %}
+          <div id="myCarousel" class="carousel slide" data-ride="carousel">
 
-                        </div>
+            <div class="carousel-inner" role="listbox">
+              {% assign min = 0 %}
+              {% assign max = site.data.conference.slideshow.size %}
+              {% assign diff = max | minus: min %}
+              {% assign slide_id = "now" | date: "%N" | modulo: diff | plus: min %}
+
+              {% for slide in site.data.conference.slideshow %}
+
+              {% if slide_id == slide.id %}
+              <div class="carousel-item active">
+              {% else %}
+              <div class="carousel-item">
+              {% endif %}
+                  <!--<img class="img-fluid" src="{{ site.baseurl }}{{ slide.image_path }}" alt="{{ slide.description }}">-->
+                <img class="img-fluid" src="{{ slide.image_path }}" alt="{{ slide.description }}">
+                <div class="carousel-caption d-none d-md-block text-muted">
+                  <p class="align-bottom"> {{ slide.description }}, by <a href="{{ slide.photographer_link }}">{{slide.photographer_name}}</a>,
+                        under <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">Creative Commons license</a>.
+                  </p>
                 </div>
+              </div>
+              {% endfor %}
+            </div>
+          </div>
         </div>
     </div>
 
@@ -53,7 +57,7 @@
                     <div class="collapse navbar-collapse " id="navbarToggler">
                         <a class="navbar-brand" href="#"> </a>
                         <ul class="navbar-nav mx-auto text-center">
-                            {% for nav in site.data.conference.navbar %}
+                            {% for nav in site.data.site-navigation.navbar %}
                                 {% if nav.visible %}
                                     {% if page.url == nav.path %}
                                         <li class="nav-item active">
@@ -67,12 +71,12 @@
                                             <a class="nav-link m-1" href=".{{ nav.path }}">
                                                 <strong>{{ nav.label | escape }}</strong>
                                             </a>
-                                        </li>   
+                                        </li>
                                     {% endif %}
                                 {% endif %}
                             {% endfor %}
                         </ul>
-                        
+
                         <ul class="navbar-nav ml-auto">
                             {% if site.data.conference.social_media.facebook_link != nil %}
                             <li class="nav-item">
