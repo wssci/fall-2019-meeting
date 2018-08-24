@@ -20,8 +20,10 @@ add this to the `program_link` field in the configuration file.
 You should only need to edit the Markdown files (extension `.md`).
 The HTML files (`organization.html`, `program.html`) read from the configuration files.
 
-## References
+To build and view the website locally, run `make serve`, then use the resulting server address (e.g., http://127.0.0.1:4000/). (You may need to run `bundle install` first to install dependencies.)
 
-Based on
+## Reference
+
+Based on [@yishanhe](https://github.com/yishanhe)'s [jekyll-conference-template](https://github.com/yishanhe/jekyll-conference-template).
 
 ## Todo
