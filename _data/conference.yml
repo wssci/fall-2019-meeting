@@ -37,16 +37,23 @@ slideshow:
     photographer_link: https://www.flickr.com/photos/acordova/
 
 deadlines:
-  - date: TBA
+  - date: 2018-12-15
     timezone: 11:59PM PDT
-    text: Submission deadline
+    text: Abstract deadline
     pass_due: False
-  - date: TBA
-    text: Registration deadline
+  - date: 2019-02-01
+    timezone: 11:59PM PDT
+    text: Paper deadline
+    pass_due: False
+  - date: 2019-02-20
+    text: Early registration deadline
+    pass_due: False
+  - date: 2019-03-17
+    text: Full registration deadline
     pass_due: False
 
 news:
-  - date: 2018-08-26
+  - date: 2018-08-31
     text: Website online
 
 sponsors:
@@ -59,7 +66,9 @@ social_media:
   twitter_link: https://twitter.com/combustion_intl
 
 program_chairs:
-  # put list of program committee chairs here
+  - name: David Lignell
+    org: Brigham Young University
+    homepage: https://chemicalengineering.byu.edu/index.php/cb-profile/dol4
 
 host_committee:
   - name: Guillaume Blanqurt

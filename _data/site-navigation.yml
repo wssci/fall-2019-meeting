@@ -16,8 +16,8 @@ navbar:
     path: /submission.html
     visible: True
   - id: 4
-    label: Venue
-    path: /venue.html
+    label: Travel
+    path: /travel.html
     visible: True
   - id: 5
     label: Registration
