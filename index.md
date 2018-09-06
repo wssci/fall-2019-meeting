@@ -15,7 +15,16 @@ We expect more than 600 students, scientists, and engineers at the meeting, repr
 
 Topics of interest include:
 
- - chemical kinetics
- - laminar flames
- - turbulent flames
- - soot
+ - Chemical Kinetics
+ - Laminar Flames
+ - Turbulent Flames
+ - Soot
+ - Coal, Biomass Combustion, and Gasification
+ - Diagnostics
+ - Stationary Combustion Systems
+ - Fire
+ - Heterogeneous Combustion, Sprays & Droplets
+ - Environmental Aspects of Combustion
+ - Detonations, Explosions, and Supersonic Combustion
+ - Internal Combustion and Gas Turbine Engines
+ - Microcombustion and New Combustion Devices
