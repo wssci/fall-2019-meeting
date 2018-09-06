@@ -4,21 +4,28 @@ layout: page
 slide_id: 4
 ---
 
-<div class="row">
+##### Program Overview
 
-  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10 offset-lg-1 col-xl-10 offset-xl-1">
+- Sunday
+  * Evening: Welcome reception
+- Monday
+  * Lunch: Section meetings
+  * Evening: Mentoring mixer
+- Tuesday
+  * Lunch: Women in Combustion (WiC)
+  * Evening: Banquet at the [California Science Center under the Endeavor Space Shuttle](https://californiasciencecenter.org/exhibits/air-space/space-shuttle-endeavour)
+- Wednesday
+  * Afternoon: [JPL](https://www.jpl.nasa.gov/)
 
-    <p>
-    {% if site.data.conference.program_link %}
-    <a href="{{ site.data.conference.program_link }}">
-      <i class="fa fa-external-link fa-fw" aria-hidden="true"></i><strong>Printed program</strong>
-    </a>
-    {% else %}
-    TBA
-    {% endif %}
-    </p>
+{% if site.data.conference.program_link %}
+[<i class="fa fa-external-link fa-fw" aria-hidden="true"></i>**Printed program**]({{ site.data.conference.program_link }})
 
-    {% for day in site.data.schedule %}
+##### Technical Program
+{% else %}
+##### Technical Program TBA
+{% endif %}
+
+{% for day in site.data.schedule %}
     <div>
         <h4 class="schedule-table-heading">{{ day.dateReadable }} - Day {{ forloop.index }}</h4>
         <table class="table table-bordered table-striped table-hover table-responsive table-sm">
@@ -63,7 +70,4 @@ slide_id: 4
         </table>
     </div>
 
-    {% endfor %}
-
-  </div>
-</div>
+{% endfor %}

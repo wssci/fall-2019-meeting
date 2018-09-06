@@ -4,11 +4,11 @@ layout: submission
 slide_id: 3
 ---
 
-##### Abstract Submission
+#### Abstract Submission
 
 Submit a short abstract (150--200 words and 2--4 keywords) through the [Combustion Institute website](https://www.combustioninstitute.org).
 
-##### Paper Submission
+#### Paper Submission
 
 Submit a full paper (ten-page limit) through the [Combustion Institute website](https://www.combustioninstitute.org).
 

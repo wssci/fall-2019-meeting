@@ -4,7 +4,9 @@ layout: page
 slide_id: 0
 ---
 
+<p class="lead">
 The US NCM 2019 will be held on March 24-27, 2019 in Pasadena CA.
+</p>
 
 #### Conference Location
 
