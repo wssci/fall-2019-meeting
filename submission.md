@@ -6,11 +6,11 @@ slide_id: 3
 
 #### Abstract Submission
 
-Submit a short abstract (150--200 words and 2--4 keywords) through the [Combustion Institute website](https://www.combustioninstitute.org).
+Submit a short abstract (150--200 words and 2--4 keywords) through [The Combustion Institute website](https://www.combustioninstitute.org).
 
 #### Paper Submission
 
-Submit a full paper (ten-page limit) through the [Combustion Institute website](https://www.combustioninstitute.org).
+Submit a full paper (ten-page limit) through [The Combustion Institute website](https://www.combustioninstitute.org).
 
 Only electronic submissions in PDF will be accepted. Submitted papers must be written in English, must be no longer than ten pages in 10-point font, must render without error using standard PDF viewing tools, must print on US-Letter-sized paper, and must include the author names and affiliations on the first page.
 

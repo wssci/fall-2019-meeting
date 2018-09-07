@@ -57,9 +57,9 @@ news:
     text: Website online
 
 sponsors:
-  - name: Combustion Institute
-    url: https://www.combustioninstitute.org
-    logo_path: ./assets/images/sponsors/CI-logo.png
+#  - name: Combustion Institute
+#    url: https://www.combustioninstitute.org
+#    logo_path: ./assets/images/sponsors/CI-logo.png
 
 social_media:
   facebook_link: https://www.facebook.com/CombustionInstitute

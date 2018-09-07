@@ -4,9 +4,9 @@ layout: page
 slide_id: 2
 ---
 
-Papers are solicited for the 2019 11th US National Combustion Meeting, which will be hosted by Caltech, USC, and by the Western States Section of the Combustion Institute.
+Papers are solicited for the 2019 11th US National Combustion Meeting, which will be hosted by Caltech, USC, and by the Western States Section of The Combustion Institute.
 
-Paper and poster abstracts and accepted full papers must be submitted through the Combustion Institute website at https://www.combustioninstitute.org/
+Paper and poster abstracts and accepted full papers must be submitted through The Combustion Institute website at https://www.combustioninstitute.org/
 
 Papers should be submitted to one of the following colloquium topics:
 
