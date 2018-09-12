@@ -1,13 +1,19 @@
 <header class="site-header">
     <div class="row">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-10 offset-xl-1">
+        <h2 class="text-center mt-0">{{ site.data.conference.full_title }}</h2>
+      </div>
+    </div>
+
+    <div class="row">
 
         <!--conference info-->
         <div class="col-xs-6 col-sm-6 col-md-6 col-lg-5 col-xl-4 offset-xl-1">
 
             <div class="jumbotron">
                 <img class="img-fluid" src="{{ site.data.conference.logo_path }}">
-                <h5 class="text-center mt-0">{{ site.data.conference.date }}</h5>
-                <p class="text-center mt-4 mb-4">{{ site.data.conference.full_title }}</p>
+                
+                <p class="text-center mt-4 mb-4">{{ site.data.conference.date }}</p>
                 <p class="text-center mb-0">{{ site.data.conference.location }}</p>
             </div>
 

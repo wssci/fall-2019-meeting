@@ -25,6 +25,6 @@ Topics of interest include:
  - Fire
  - Heterogeneous Combustion, Sprays & Droplets
  - Environmental Aspects of Combustion
- - Detonations, Explosions, and \Supersonic Combustion
+ - Detonations, Explosions, and Supersonic Combustion
  - Internal Combustion and Gas Turbine Engines
  - Microcombustion and New Combustion Devices
