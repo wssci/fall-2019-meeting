@@ -30,7 +30,7 @@
 .alert,
 .card,
 .jumbotron,
-.nav, 
+.nav,
 .carousel {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
@@ -47,7 +47,7 @@
 }
 
 .card {
-    margin-top: 0.25rem; 
+    margin-top: 0.25rem;
     margin-bottom: 1.25rem;
     border-radius: 12px;
     overflow: hidden;
@@ -55,7 +55,7 @@
 
 .card-block,
 .conference-text {
-    font-size: 85%;
+    font-size: 100%;
 }
 
 .card-block {
@@ -64,15 +64,18 @@
     padding-left: 3px;
     padding-right: 3px;
     background-color: #eee;
+    font-size: 85%;
 }
 
 .committee {
     padding: 10px;
     border-top: 0.05rem solid #e5e5e5;
+    font-size: 100%;
 }
 
 .committee p {
     margin-left: 20px;
+    font-size: 100%;
 }
 .card-header {
     padding-top: 4px;
@@ -82,6 +85,7 @@
 .card-block p {
     margin-bottom: 1px;
     margin-top: 1px;
+    font-size: 100%;
 }
 
 .card-block a {
@@ -105,10 +109,11 @@
     padding-top: 2px;
     padding-bottom: 2px;
     overflow: hidden;
+    text-align: left;
 }
 
 .sponsor {
-    margin-top: 0.75rem; 
+    margin-top: 0.75rem;
     margin-bottom: 0.75rem;
 }
 
@@ -117,14 +122,14 @@
 }
 
 .sponsor h5 {
-    margin-top: 1.5rem; 
+    margin-top: 1.5rem;
     margin-bottom: 1.5rem;
 }
 
 footer {
-    padding-top: 1.5rem; 
+    padding-top: 1.5rem;
     border-top: 0.05rem solid #e5e5e5;
-    margin-top: 1.0rem; 
+    margin-top: 1.0rem;
 }
 
 .card-header,
