@@ -24,4 +24,4 @@ Papers should be submitted to one of the following colloquium topics:
 - Internal Combustion and Gas Turbine Engines
 - Microcombustion and New Combustion Devices
 
-Paper and poster abstracts should be 150-200 words and include 2-4 keywords. Instructions for formatting the full paper (10-page limit) submissions are available at the [meeting website](/submission.html).
+Paper and poster abstracts should be 150-200 words and include 2-4 keywords. Instructions for formatting the full paper (10-page limit) submissions are available at the [meeting website](./submission.html).
