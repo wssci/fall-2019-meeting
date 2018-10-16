@@ -7,6 +7,7 @@ slide_id: 4
 ##### Program Overview
 
 - Sunday
+  * Afternoon: [Cantera workshop](https://cantera.github.io/ncm-2019-workshop/)
   * Evening: Welcome reception
 - Monday
   * Lunch: Section meetings
