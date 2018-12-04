@@ -6,7 +6,11 @@ slide_id: 4
 
 ##### Program Overview
 
+- Saturday
+  * All day: Workshop for Early Career Faculty in Combustion
 - Sunday
+  * Morning: Workshop for Early Career Faculty in Combustion
+  * Afternoon: [Cantera workshop](https://cantera.github.io/ncm-2019-workshop/)
   * Evening: Welcome reception
 - Monday
   * Lunch: Section meetings
