@@ -27,3 +27,7 @@ navbar:
     label: Program
     path: /program.html
     visible: True
+  - id: 7
+    label: Code of Conduct
+    path: /codeofconduct.html
+    visible: True
