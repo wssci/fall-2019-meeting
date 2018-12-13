@@ -1,17 +1,29 @@
 <div class="row sponsor">
     <div class="col">
-        <h5>SPONSORS</h5>
         {% if site.data.conference.sponsors == nil %}
         <div class="alert alert-warning rounded text-center m-1">
             <p>TBA</p>
         </div>
         {% else %}
         <div class="row">
-            {% for sponsor in site.data.conference.sponsors %}
-                <img class="img-fluid mr-auto d-inline-block mb-2 mt-2" src="{{ site.baseurl }}{{ sponsor.logo_path }}" alt="{{ sponsor.name }}">
+            {% assign platinumsponsors = site.data.conference.sponsors | where: "level","platinum" %}
+            {% for sponsor in platinumsponsors %}
+                <h5>{{ sponsor.name }}</h5>
+                <img class="img-fluid mr-auto d-inline-block mb-2 mt-2" src="{{ sponsor.logo_path }}" alt="{{ sponsor.name }}">
+            {% endfor %}
+
+            {% assign goldsponsors = site.data.conference.sponsors | where: "level","gold" %}
+            {% for sponsor in goldsponsors %}
+                <h5>{{ sponsor.name }}</h5>
+                <img class="img-fluid mr-auto d-inline-block mb-2 mt-2" src="{{ sponsor.logo_path }}" alt="{{ sponsor.name }}">
+            {% endfor %}
+
+            {% assign sponsors = site.data.conference.sponsors | where: "level","sponsor" %}
+            {% for sponsor in sponsors %}
+                <h5>{{ sponsor.name }}</h5>
+                <img class="img-fluid mr-auto d-inline-block mb-2 mt-2" src="{{ sponsor.logo_path }}" alt="{{ sponsor.name }}">
             {% endfor %}
         </div>
         {% endif %}
     </div>
 </div>
-

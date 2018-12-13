@@ -4,8 +4,8 @@ navbar:
     path: /
     visible: True
   - id: 1
-    label: Organization
-    path: /organization.html
+    label: Sponsors
+    path: /sponsors.html
     visible: True
   - id: 2
     label: Call for Papers

@@ -70,9 +70,18 @@ news:
     text: Website online
 
 sponsors:
-#  - name: Combustion Institute
-#    url: https://www.combustioninstitute.org
-#    logo_path: ./assets/images/sponsors/CI-logo.png
+  - name: Caltech Division of Engineering and Applied Sciences
+    url: http://eas.caltech.edu
+    logo_path: ./assets/images/Caltech-EAS-logo.png
+    level: platinum
+  - name: Caltech Department of Mechanical and Civil Engineering
+    url: http://www.mce.caltech.edu
+    logo_path: ./assets/images/mce-logo.png
+    level: gold
+  - name: Telops
+    url: https://telops.com
+    logo_path: ./assets/images/telops-logo.png
+    level: sponsor
 
 social_media:
   facebook_link: https://www.facebook.com/CombustionInstitute
