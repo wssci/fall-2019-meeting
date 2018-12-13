@@ -11,10 +11,12 @@
             {% assign platinumsponsors = site.data.conference.sponsors | where: "level","platinum" %}
             {% for sponsor in platinumsponsors %}
               <div class="row text-left sponsor">
-                <a href="{{ sponsor.url }}">
-                  <img class="img-fluid d-block float-left" src="{{ sponsor.logo_path }}" alt="{{ sponsor.name }}">
-                </a>
-                <div class="caption center-block">{{ sponsor.name }}</div>
+                <figure class="figure d-block float-left">
+                  <a href="{{ sponsor.url }}">
+                  <img class="figure-img img-fluid" src="{{ sponsor.logo_path }}" alt="{{ sponsor.name }}">
+                  </a>
+                  <figcaption class="figure-caption">{{ sponsor.name }}</figcaption>
+                </figure>
               </div>
             {% endfor %}
 
@@ -25,12 +27,12 @@
             {% assign goldsponsors = site.data.conference.sponsors | where: "level","gold" %}
             {% for sponsor in goldsponsors %}
               <div class="row text-left sponsor">
-                <a href="{{ sponsor.url }}">
-                  <figure class="figure">
-                    <img class="figure-img img-fluid d-block float-left" src="{{ sponsor.logo_path }}" alt="{{ sponsor.name }}">
-                    <figcaption class="figure-caption">{{ sponsor.name }}</figcaption>
-                  </figure>
-                </a>
+                <figure class="figure d-block float-left">
+                  <a href="{{ sponsor.url }}">
+                    <img class="figure-img img-fluid" src="{{ sponsor.logo_path }}" alt="{{ sponsor.name }}">
+                  </a>
+                  <figcaption class="figure-caption">{{ sponsor.name }}</figcaption>
+                </figure>
               </div>
             {% endfor %}
 
@@ -41,9 +43,12 @@
             {% assign sponsors = site.data.conference.sponsors | where: "level","sponsor" %}
             {% for sponsor in sponsors %}
               <div class="text-left sponsor">
-                <a href="{{ sponsor.url }}">
-                  <img class="img-fluid d-block float-left" src="{{ sponsor.logo_path }}" alt="{{ sponsor.name }}">
-                </a>
+                <figure class="figure d-block float-left">
+                  <a href="{{ sponsor.url }}">
+                  <img class="figure-img img-fluid" src="{{ sponsor.logo_path }}" alt="{{ sponsor.name }}">
+                  </a>
+                  <figcaption class="figure-caption">{{ sponsor.name }}</figcaption>
+                </figure>
               </div>
             {% endfor %}
 
