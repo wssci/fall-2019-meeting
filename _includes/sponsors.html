@@ -1,29 +1,54 @@
-<div class="row sponsor">
-    <div class="col">
+<div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-10 offset-xl-1">
         {% if site.data.conference.sponsors == nil %}
         <div class="alert alert-warning rounded text-center m-1">
             <p>TBA</p>
         </div>
         {% else %}
-        <div class="row">
+
+            <h2 class="row">Platinum Sponsors</h2>
+
             {% assign platinumsponsors = site.data.conference.sponsors | where: "level","platinum" %}
             {% for sponsor in platinumsponsors %}
-                <h5>{{ sponsor.name }}</h5>
-                <img class="img-fluid mr-auto d-inline-block mb-2 mt-2" src="{{ sponsor.logo_path }}" alt="{{ sponsor.name }}">
+              <div class="row text-left sponsor">
+                <a href="{{ sponsor.url }}">
+                  <img class="img-fluid d-block float-left" src="{{ sponsor.logo_path }}" alt="{{ sponsor.name }}">
+                </a>
+                <div class="caption center-block">{{ sponsor.name }}</div>
+              </div>
             {% endfor %}
+
+          <div class="row my-5"></div>
+
+            <h2 class="row">Gold Sponsors</h2>
 
             {% assign goldsponsors = site.data.conference.sponsors | where: "level","gold" %}
             {% for sponsor in goldsponsors %}
-                <h5>{{ sponsor.name }}</h5>
-                <img class="img-fluid mr-auto d-inline-block mb-2 mt-2" src="{{ sponsor.logo_path }}" alt="{{ sponsor.name }}">
+              <div class="row text-left sponsor">
+                <a href="{{ sponsor.url }}">
+                  <figure class="figure">
+                    <img class="figure-img img-fluid d-block float-left" src="{{ sponsor.logo_path }}" alt="{{ sponsor.name }}">
+                    <figcaption class="figure-caption">{{ sponsor.name }}</figcaption>
+                  </figure>
+                </a>
+              </div>
             {% endfor %}
+
+          <div class="row my-5"></div>
+
+          <h2 class="row">Sponsors</h2>
 
             {% assign sponsors = site.data.conference.sponsors | where: "level","sponsor" %}
             {% for sponsor in sponsors %}
-                <h5>{{ sponsor.name }}</h5>
-                <img class="img-fluid mr-auto d-inline-block mb-2 mt-2" src="{{ sponsor.logo_path }}" alt="{{ sponsor.name }}">
+              <div class="text-left sponsor">
+                <a href="{{ sponsor.url }}">
+                  <img class="img-fluid d-block float-left" src="{{ sponsor.logo_path }}" alt="{{ sponsor.name }}">
+                </a>
+              </div>
             {% endfor %}
-        </div>
+
+          <div class="row my-5"></div>
+
         {% endif %}
     </div>
 </div>

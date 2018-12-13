@@ -12,7 +12,7 @@
 
             <div class="jumbotron">
                 <img class="img-fluid" src="{{ site.data.conference.logo_path }}">
-                
+
                 <p class="text-center mt-4 mb-4">{{ site.data.conference.date }}</p>
                 <p class="text-center mb-0">{{ site.data.conference.location }}</p>
             </div>
@@ -52,60 +52,60 @@
     </div>
 
     <div class="row">
-
         <!--navbar-->
-        <div class="mynav col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-10 offset-xl-1">
-                <nav class="nav navbar-toggleable-sm navbar-inverse">
-                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-                    <div class="collapse navbar-collapse " id="navbarToggler">
-                        <a class="navbar-brand" href="#"> </a>
-                        <ul class="navbar-nav mx-auto text-center">
-                            {% for nav in site.data.site-navigation.navbar %}
-                                {% if nav.visible %}
-                                    {% if page.url == nav.path %}
-                                        <li class="nav-item active">
-                                            <a class="nav-link m-1" href=".{{ nav.path }}">
-                                                <strong>{{ nav.label | escape }}</strong>
-                                                <span class="sr-only">(current)</span>
-                                            </a>
-                                        </li>
-                                    {% else %}
-                                        <li class="nav-item">
-                                            <a class="nav-link m-1" href=".{{ nav.path }}">
-                                                <strong>{{ nav.label | escape }}</strong>
-                                            </a>
-                                        </li>
-                                    {% endif %}
-                                {% endif %}
-                            {% endfor %}
-                        </ul>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-10 offset-xl-1">
+          <nav class="nav navbar-expand-sm navbar-inverse navbar-dark bg-dark">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarToggler">
+              <a class="navbar-brand" href="#"> </a>
+              <ul class="navbar-nav mx-auto text-center">
+                  {% for nav in site.data.site-navigation.navbar %}
+                  {% if nav.visible %}
+                  {% if page.url == nav.path %}
+                  <li class="nav-item active">
+                    <a class="nav-link m-1" href=".{{ nav.path }}">
+                      {{ nav.label | escape }}
+                      <span class="sr-only">(current)</span>
+                    </a>
+                  </li>
+                  {% else %}
+                    <li class="nav-item">
+                      <a class="nav-link m-1" href=".{{ nav.path }}">
+                        {{ nav.label | escape }}
+                      </a>
+                    </li>
+                  {% endif %}
+                  {% endif %}
+                  {% endfor %}
+                </ul>
 
-                        <ul class="navbar-nav ml-auto">
-                            {% if site.data.conference.social_media.facebook_link != nil %}
-                            <li class="nav-item">
-                                <a class="nav-link" href="{{ site.data.conference.social_media.facebook_link }}">
-                                    <span class="fa-stack">
-                                        <i class="fa fa-facebook-square fa-stack-1x"></i>
-                                    </span>
-                                </a>
-                            </li>
-                            {% endif %}
-                            {% if site.data.conference.social_media.twitter_link != nil %}
-                            <li class="nav-item">
-                                <a class="nav-link" href="{{ site.data.conference.social_media.twitter_link }}">
-                                    <span class="fa-stack">
-                                        <i class="fa fa-twitter-square fa-stack-1x"></i>
-                                    </span>
-                                </a>
-                            </li>
-                            {% endif %}
-                        </ul>
+              <ul class="navbar-nav ml-auto">
 
-                    </div>
-                </nav>
+                  {% if site.data.conference.social_media.facebook_link != nil %}
+                  <li class="nav-item">
+                    <a class="nav-link" href="{{ site.data.conference.social_media.facebook_link }}">
+                      <span class="fa-stack">
+                        <i class="fa fa-facebook-square fa-stack-1x"></i>
+                      </span>
+                    </a>
+                  </li>
+                  {% endif %}
+
+                  {% if site.data.conference.social_media.twitter_link != nil %}
+                  <li class="nav-item">
+                    <a class="nav-link" href="{{ site.data.conference.social_media.twitter_link }}">
+                      <span class="fa-stack">
+                        <i class="fa fa-twitter-square fa-stack-1x"></i>
+                      </span>
+                    </a>
+                  </li>
+                  {% endif %}
+              </ul>
+
+              </div>
+            </nav>
         </div>
 
     </div>

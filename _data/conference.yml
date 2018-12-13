@@ -84,8 +84,8 @@ sponsors:
     level: sponsor
 
 social_media:
-  facebook_link: https://www.facebook.com/CombustionInstitute
-  twitter_link: https://twitter.com/combustion_intl
+  facebook_link:
+  twitter_link: 
 
 program_chairs:
   - name: David Lignell
