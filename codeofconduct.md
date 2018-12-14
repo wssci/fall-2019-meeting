@@ -4,8 +4,6 @@ layout: page
 slide_id: 0
 ---
 
-# Code of Conduct
-
 The Board of the US Sections of the Combustion Institute (USSCI) approved this
 Code of Conduct, December 5th, 2018 for the purpose of the 11th US National Combustion
 Meeting in Pasadena, CA. This document complements the Code of Ethics adopted by the
@@ -26,8 +24,9 @@ takes place at any programs or activities related to the 11th National Combustio
 The WSSCI takes all reports of behavior prohibited by the Code of Conduct seriously
 and encourages any individual who experiences or witnesses such behavior to report,
 including anonymously, such violations to the Chair or the Vice‐Chair of the WSSCI,
-including by email. The WSSCI encourages the prompt reporting of such matters to ensure
-a timely and constructive resolution.
+including by email ([conduct@wssci.us](mailto:conduct@wssci.us?subject=[Code of Conduct])).
+The WSSCI encourages the prompt reporting of such matters to ensure a timely and
+constructive resolution.
 
 The Chair and the Vice‐Chair will evaluate each report to determine the most appropriate
 response, including both informal and formal responses. The desired response of the reporting

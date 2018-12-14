@@ -54,13 +54,16 @@
     <div class="row">
         <!--navbar-->
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-10 offset-xl-1">
-          <nav class="nav navbar-expand-sm navbar-inverse navbar-dark bg-dark">
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+
+          <nav class="nav navbar-expand-lg navbar-dark bg-dark">
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
-            <div class="collapse navbar-collapse" id="navbarToggler">
-              <a class="navbar-brand" href="#"> </a>
-              <ul class="navbar-nav mx-auto text-center">
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+              <ul class="navbar-nav mr-auto">
                   {% for nav in site.data.site-navigation.navbar %}
                   {% if nav.visible %}
                   {% if page.url == nav.path %}
@@ -79,6 +82,21 @@
                   {% endif %}
                   {% endif %}
                   {% endfor %}
+
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle m-1" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      Awards
+                    </a>
+
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                      {% for nav in site.data.site-navigation.awards %}
+                      <a class="dropdown-item" href="./{{ nav.path }}">
+                          {{ nav.label | escape }}
+                      </a>
+                      {% endfor %}
+                    </div>
+                  </li>
+
                 </ul>
 
               <ul class="navbar-nav ml-auto">
@@ -103,9 +121,9 @@
                   </li>
                   {% endif %}
               </ul>
+            </div>
+          </nav>
 
-              </div>
-            </nav>
         </div>
 
     </div>

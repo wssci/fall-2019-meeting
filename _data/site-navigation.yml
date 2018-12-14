@@ -31,3 +31,18 @@ navbar:
     label: Code of Conduct
     path: /codeofconduct.html
     visible: True
+
+awards:
+  - id: 0
+    label: Early Career Investigator Award
+    path: early-career-award.html
+  - id: 1
+    label: Art Competition Award
+    path: art-competition.html
+  - id: 2
+    label: Student Travel Awards
+    path: student-travel.html
+
+events:
+  - id: 0
+    label: 

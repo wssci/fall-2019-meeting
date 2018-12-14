@@ -40,7 +40,7 @@ deadlines:
   - date: 2018-12-13
     timezone: 11:59PM EDT
     text: Abstract deadline
-    pass_due: False
+    pass_due: True
   - date: 2019-01-07
     text: Paper acceptance notification
     pass_due: False
@@ -51,6 +51,9 @@ deadlines:
   - date: 2019-01-31
     timezone: 11:59PM EDT
     text: WiPP deadline
+    pass_due: False
+  - date: 2019-02-01
+    text: Early Career Investigator Award deadline
     pass_due: False
   - date: 2019-02-08
     text: WiPP notification
@@ -85,7 +88,7 @@ sponsors:
 
 social_media:
   facebook_link:
-  twitter_link: 
+  twitter_link:
 
 program_chairs:
   - name: David Lignell
