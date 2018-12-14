@@ -5,7 +5,7 @@
 
 .jumbotron,
 .carousel-item {
-    height: 270px;
+    height: 300px;
     border-radius: 0;
 }
 
@@ -87,6 +87,9 @@
     color: inherit;
 }
 
+.nav {
+     border-radius: 12px;
+ }
 
 .list-group-item {
     font-size: 90%;
