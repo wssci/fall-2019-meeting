@@ -54,4 +54,4 @@ Visit <a href="https://cssci.org">https://cssci.org</a> to view past winners of
 Combustion Art Competition.
 </p>
 
-![Art competition past winners](/assets/images/art-competition.png "Art Competition"){:class="img-fluid"}
+![Art competition past winners](./assets/images/art-competition.png "Art Competition"){:class="img-fluid"}
