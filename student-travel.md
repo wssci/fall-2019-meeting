@@ -19,7 +19,7 @@ The requirements for receiving a travel award are:
 5. Non-local (travel distance > 50 miles)
 
 After applicants submit the online form, they should have **their advisor** send a confirmation via email verifying the above five points by March 1st to: Prof. Nicole Labbe ([Nicole.Labbe@colorado.edu](mailto:Nicole.Labbe@colorado.edu)).
-Please include "WSSCIStudent Travel Award" in the email subject line.
+Please include "WSSCI Student Travel Award" in the email subject line.
 
 ## Eastern States Section
 
