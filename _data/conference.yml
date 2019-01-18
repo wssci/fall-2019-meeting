@@ -43,7 +43,7 @@ deadlines:
     pass_due: True
   - date: 2019-01-07
     text: Paper acceptance notification
-    pass_due: False
+    pass_due: True
   - date: 2019-01-31
     timezone: 11:59PM EDT
     text: Paper deadline

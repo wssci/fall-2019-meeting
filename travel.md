@@ -38,7 +38,9 @@ Cut-off date: February 20, 2019.
 <i class="fa fa-map-marker mr-3" aria-hidden="true"></i>[191 North Los Robles Ave, Pasadena, CA 91101](https://goo.gl/maps/tjxnD7siaJG2)<br />
 Phone: (626) 792-2727, Fax: (626) 795-7669<br />
 Rate: $189/night plus applicable taxes; rate includes complimentary wireless internet.<br />
+Link: <https://www.marriott.com/event-reservations/reservation-link.mi?id=1547662579319&key=GRP&app=resvlink><br />
 Cut-off date: March 4, 2019.
+
 
 #### Travel
 
