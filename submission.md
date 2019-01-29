@@ -6,11 +6,11 @@ slide_id: 3
 
 #### Abstract Submission
 
-Submit a short abstract (150--200 words and 2--4 keywords) through [The Combustion Institute website](https://www.combustioninstitute.org/ci-event/11th-us-national-combustion-meeting/).
+Submit a short abstract (150--200 words and 2--4 keywords) through [The Combustion Institute website <i class="fa fa-external-link fa-fw" aria-hidden="true"></i>](https://www.combustioninstitute.org/ci-event/11th-us-national-combustion-meeting/).
 
 #### Paper Submission
 
-Submit a full paper (ten-page limit) through [<i class="fa fa-external-link fa-fw" aria-hidden="true"></i> The Combustion Institute website](https://ams.combustioninstitute.org/).
+Submit a full paper (ten-page limit) through [The Combustion Institute website <i class="fa fa-external-link fa-fw" aria-hidden="true"></i>](https://ams.combustioninstitute.org/).
 
 Submission steps:
 
