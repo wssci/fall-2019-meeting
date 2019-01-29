@@ -23,7 +23,9 @@ Please include "WSSCI Student Travel Award" in the email subject line.
 
 ## Eastern States Section
 
-TBA
+Student members of the [ESSCI](https://essciweb.wixsite.com/mysite), please follow this link for
+more information about applying for travel awards:
+[Student travel support to the 11th U.S. National Combustion Meeting](https://docs.wixstatic.com/ugd/1db1d9_6e5f30d4c4ce47efb31ca60e55037da9.pdf)
 
 ## Central States Section
 
