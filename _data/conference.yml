@@ -47,14 +47,14 @@ deadlines:
   - date: 2019-01-31
     timezone: 11:59PM EDT
     text: Paper deadline
-    pass_due: False
+    pass_due: True
   - date: 2019-01-31
     timezone: 11:59PM EDT
     text: WiPP deadline
-    pass_due: False
+    pass_due: True
   - date: 2019-02-01
     text: Early Career Investigator Award deadline
-    pass_due: False
+    pass_due: True
   - date: 2019-02-08
     text: WiPP notification
     pass_due: False
