@@ -10,6 +10,7 @@
 
             {% assign platinumsponsors = site.data.conference.sponsors | where: "level","platinum" %}
             {% for sponsor in platinumsponsors %}
+            <div class="row my-5 w-50 p-3">
               <div class="row text-left sponsor">
                 <figure class="figure d-block float-left">
                   <a href="{{ sponsor.url }}">
@@ -18,6 +19,7 @@
                   <figcaption class="figure-caption">{{ sponsor.name }}</figcaption>
                 </figure>
               </div>
+            </div>
             {% endfor %}
 
           <div class="row my-5"></div>
@@ -26,6 +28,7 @@
 
             {% assign goldsponsors = site.data.conference.sponsors | where: "level","gold" %}
             {% for sponsor in goldsponsors %}
+            <div class="row my-5 w-50 p-3">
               <div class="row text-left sponsor">
                 <figure class="figure d-block float-left">
                   <a href="{{ sponsor.url }}">
@@ -34,6 +37,7 @@
                   <figcaption class="figure-caption">{{ sponsor.name }}</figcaption>
                 </figure>
               </div>
+            </div>
             {% endfor %}
 
           <div class="row my-5"></div>
@@ -42,6 +46,7 @@
 
             {% assign sponsors = site.data.conference.sponsors | where: "level","sponsor" %}
             {% for sponsor in sponsors %}
+            <div class="row my-5 w-25 p-3">
               <div class="text-left sponsor">
                 <figure class="figure d-block float-left">
                   <a href="{{ sponsor.url }}">
@@ -50,6 +55,7 @@
                   <figcaption class="figure-caption">{{ sponsor.name }}</figcaption>
                 </figure>
               </div>
+            </div>
             {% endfor %}
 
           <div class="row my-5"></div>

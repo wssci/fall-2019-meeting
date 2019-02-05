@@ -23,10 +23,14 @@ Please include "WSSCI Student Travel Award" in the email subject line.
 
 ## Eastern States Section
 
-Student members of the [ESSCI](https://essciweb.wixsite.com/mysite), please follow this link for
-more information about applying for travel awards:
-[Student travel support to the 11th U.S. National Combustion Meeting](https://docs.wixstatic.com/ugd/1db1d9_6e5f30d4c4ce47efb31ca60e55037da9.pdf)
+Financial travel support is available to student members of the [ESSCI](https://essciweb.wixsite.com/mysite)
+who will be delivering oral presentations at the meeting. The anticipated level of support is up to $250 per award,
+dependent upon number of applicants. See the [information sheet](https://docs.wixstatic.com/ugd/1db1d9_6e5f30d4c4ce47efb31ca60e55037da9.pdf) for details and deadlines.
 
-## Central States Section
+## US Sections of the Combustion Institute (USSCI)
 
-TBA
+The [U.S. Sections (USSCI)](https://www.ussci.org) will provide additional support for students who will be making
+oral presentations at the meeting. See the
+[information sheet](https://www.combustioninstitute.org/wp-content/uploads/2019/01/2019-USNCM-Support-USSCI.pdf)
+for requirements and deadline. Students should use the [online form](https://docs.google.com/forms/d/1GIPewdXK7DSHNyJWhgNjD_eA8KX5M1XR3ra7OGIq2Mw/viewform?edit_requested=true)
+to apply.
