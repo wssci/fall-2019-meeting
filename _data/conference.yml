@@ -85,6 +85,14 @@ sponsors:
     url: https://telops.com
     logo_path: ./assets/images/telops-logo.png
     level: sponsor
+  - name: Photron
+    url: https://photron.com
+    logo_path: ./assets/images/photron-logo.png
+    level: sponsor
+  - name: USC Viterbi School of Engineering
+    url: https://viterbischool.usc.edu
+    logo_path: ./assets/images/usc-logo.png
+    level: platinum
 
 social_media:
   facebook_link:
