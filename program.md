@@ -16,7 +16,7 @@ slide_id: 4
   * Lunch: Section meetings
   * Evening: Mentoring mixer
 - Tuesday
-  * Lunch: Women in Combustion (WiC)
+  * Lunch: Women in Combustion (WiC) (for female-identifying conference participants only)
   * Evening: Banquet at the [California Science Center under the Endeavor Space Shuttle](https://californiasciencecenter.org/exhibits/air-space/space-shuttle-endeavour)
 - Wednesday
   * Afternoon: [JPL](https://www.jpl.nasa.gov/) lab tour
