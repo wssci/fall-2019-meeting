@@ -19,7 +19,8 @@ slide_id: 4
   * Lunch: Women in Combustion (WiC) (for female-identifying conference participants only)
   * Evening: Banquet at the [California Science Center under the Endeavor Space Shuttle](https://californiasciencecenter.org/exhibits/air-space/space-shuttle-endeavour)
 - Wednesday
-  * Afternoon: [JPL](https://www.jpl.nasa.gov/) lab tour
+  * Morning: [JPL](https://www.jpl.nasa.gov/) lab tour (9:30 am to 12:00 pm)
+  * Afternoon: [JPL](https://www.jpl.nasa.gov/) lab tour (1:00 pm to 3:30 pm)
 
 {% if site.data.conference.program_link %}
 [<i class="fa fa-external-link fa-fw" aria-hidden="true"></i>**Printed program**]({{ site.data.conference.program_link }})
