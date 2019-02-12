@@ -11,6 +11,7 @@ slide_id: 4
 - Sunday
   * Morning: Workshop for Early Career Faculty in Combustion
   * Afternoon: [Cantera workshop](https://cantera.github.io/ncm-2019-workshop/)
+  * Afternoon: Career opportunity: [Exponent](https://www.exponent.com/) info session
   * Evening: Welcome reception
 - Monday
   * Lunch: Section meetings
