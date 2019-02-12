@@ -93,6 +93,10 @@ sponsors:
     url: https://viterbischool.usc.edu
     logo_path: ./assets/images/usc-logo.png
     level: platinum
+  - name: Exponent
+    url: https://www.exponent.com
+    level: sponsor
+    logo_path: ./assets/images/exponent-logo.png
 
 social_media:
   facebook_link:
