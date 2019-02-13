@@ -27,3 +27,7 @@ Papers should use the **provided templates**:
 - [<i class="fa fa-file-word-o fa-fw" aria-hidden="true"></i>Word template](./assets/11thUSCombustMtg_PaperTemplate.docx)
 
 Note that at least one author of each paper accepted for presentation must be registered to attend the meeting.
+
+#### Poster Instructions
+
+The maximum allowable size is 3'x4' in landscape orientation. Otherwise, the format is open.
