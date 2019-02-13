@@ -7,9 +7,9 @@ slide_id: 4
 ##### Program Overview
 
 - Saturday
-  * All day: Workshop for Early Career Faculty in Combustion
+  * All day: [Workshop for Early Career Faculty in Combustion](https://combustion-community.github.io/workshop-2019/)
 - Sunday
-  * Morning: Workshop for Early Career Faculty in Combustion
+  * Morning: [Workshop for Early Career Faculty in Combustion](https://combustion-community.github.io/workshop-2019/)
   * Afternoon: [Cantera workshop](https://cantera.github.io/ncm-2019-workshop/)
   * Afternoon: Career opportunity: [Exponent](https://www.exponent.com/) info session
   * Evening: Welcome reception
