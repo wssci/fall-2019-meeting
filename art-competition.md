@@ -44,8 +44,8 @@ March 25th and remove it by the end of the meeting. We will provide easels or ta
 for your art displays. Contact [Sandra Olson](mailto:sandra.olson@nasa.gov)
 if you have special display needs. We cannot provide security for your displays.
 
-The peer voting will occur throughout the day Tuesday, March 25th. We plan to announce
-the winners before the plenary session on Wednesday, March 26th. We thank you for your
+The peer voting will continue until the afternoon break on Tuesday, March 25th. We plan to announce
+the winners at the banquet on Tuesday, March 25th. We thank you for your
 contributions and look forward to a very successful event. We look forward to seeing
 your combustion art work! Best of luck in the competition!
 
