@@ -4,6 +4,9 @@ layout: page
 slide_id: 4
 ---
 
+### Draft program
+[<i class="fa fa fa-file-pdf-o" aria-hidden="true"></i> Draft schedule](./assets/11th-USNCM-Presentation-Listing.pdf)
+
 ##### Program Overview
 
 - Saturday
@@ -29,8 +32,6 @@ slide_id: 4
 ##### Technical Program
 {% else %}
 ##### Technical Program TBA
-
-[<i class="fa fa fa-file-pdf-o" aria-hidden="true"></i> Draft schedule](./assets/11th-USNCM-Presentation-Listing.pdf)
 {% endif %}
 
 {% for day in site.data.schedule %}
