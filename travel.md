@@ -35,12 +35,9 @@ Rate: $189/night plus applicable taxes; rate includes complimentary wireless int
 Link: <https://www.marriott.com/event-reservations/reservation-link.mi?id=1547662579319&key=GRP&app=resvlink><br />
 Cut-off date: March 4, 2019.
 
-##### Hilton Pasadena Hotel
+##### ~~Hilton Pasadena Hotel~~
 <i class="fa fa-map-marker mr-3" aria-hidden="true"></i>[168 South Los Robles Ave, Pasadena, CA 91101](https://goo.gl/maps/E3wMFJUxwSm)<br />
-Phone: (626) 577-1000, Fax: (626) 584-3132<br />
-Rate: $189/night plus applicable taxes; rate includes complimentary wireless internet.<br />
-Link: <http://www.hilton.com/en/hi/groups/personalized/P/PASPHHF-USNCM-20190322><br />
-Cut-off date: February 20, 2019.
+**SOLD OUT**
 
 
 #### Travel
