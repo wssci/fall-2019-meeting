@@ -57,10 +57,10 @@ deadlines:
     pass_due: True
   - date: 2019-02-08
     text: WiPP notification
-    pass_due: False
+    pass_due: True
   - date: 2019-02-20
     text: Early registration deadline
-    pass_due: False
+    pass_due: True
   - date: 2019-03-08
     text: Art competition deadline
     pass_due: False
@@ -71,6 +71,8 @@ deadlines:
 news:
   - date: 2018-08-31
     text: Website online
+  - date: 2019-02-22
+    text: Draft presentation schedule available
 
 sponsors:
   - name: Caltech Division of Engineering and Applied Sciences
