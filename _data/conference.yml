@@ -1,105 +1,57 @@
-full_title: 11th US National Combustion Meeting
-short_title: US NCM 2018
+full_title: WSSCI Fall Technical Meeting
+short_title: WSSCI F2019
 email: webmaster@wssci.us
 program_chair_email: davidlignell@byu.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Premier combustion science meeting in the US, organized biennially.
-location: Pasadena, CA, USA
-date: March 24-27, 2019
+  Fall Technical Meeting of the Western States Section of the Combustion Institute
+location: Albuquerque, NM, USA
+date: Fall 2019
 program_link:
 
 logo_path: ./assets/images/WSSCI-Logo-web.png
 slideshow:
-  - id: 0
-    image_path: ./assets/images/slideshow/image0.jpg
-    description: Pasadena City Hall
-    photographer_name: Michael Chen
-    photographer_link: https://www.flickr.com/photos/mikechen-metalman/
-    active: True
-  - id: 1
-    image_path: ./assets/images/slideshow/image1.jpg
-    description: Huntington Library & Botanical Gardens - Pasadena, California
-    photographer_name: Chris Goldberg
-    photographer_link: https://www.flickr.com/photos/chrisgold/
-  - id: 2
-    image_path: ./assets/images/slideshow/image2.jpg
-    description: California Science Center, Los Angeles
-    photographer_name: Fabio Achilli
-    photographer_link: https://www.flickr.com/photos/travelourplanet/
-  - id: 3
-    image_path: ./assets/images/slideshow/image3.jpg
-    description: Image 17540 (USA/California/Los Angeles County/Pasadena/CalTech)
-    photographer_name: Vlad Butsky
-    photographer_link: https://www.flickr.com/photos/butsky/
-  - id: 4
-    image_path: ./assets/images/slideshow/image4.jpg
-    description: Campus of the California Institute of Technology
-    photographer_name: Alan Cordova
-    photographer_link: https://www.flickr.com/photos/acordova/
+  # - id: 0
+  #   image_path: ./assets/images/slideshow/image0.jpg
+  #   description: Pasadena City Hall
+  #   photographer_name: Michael Chen
+  #   photographer_link: https://www.flickr.com/photos/mikechen-metalman/
+  #   active: True
+  # - id: 1
+  #   image_path: ./assets/images/slideshow/image1.jpg
+  #   description: Huntington Library & Botanical Gardens - Pasadena, California
+  #   photographer_name: Chris Goldberg
+  #   photographer_link: https://www.flickr.com/photos/chrisgold/
+  # - id: 2
+  #   image_path: ./assets/images/slideshow/image2.jpg
+  #   description: California Science Center, Los Angeles
+  #   photographer_name: Fabio Achilli
+  #   photographer_link: https://www.flickr.com/photos/travelourplanet/
+  # - id: 3
+  #   image_path: ./assets/images/slideshow/image3.jpg
+  #   description: Image 17540 (USA/California/Los Angeles County/Pasadena/CalTech)
+  #   photographer_name: Vlad Butsky
+  #   photographer_link: https://www.flickr.com/photos/butsky/
+  # - id: 4
+  #   image_path: ./assets/images/slideshow/image4.jpg
+  #   description: Campus of the California Institute of Technology
+  #   photographer_name: Alan Cordova
+  #   photographer_link: https://www.flickr.com/photos/acordova/
 
 deadlines:
-  - date: 2018-12-13
-    timezone: 11:59PM EDT
-    text: Abstract deadline
-    pass_due: True
-  - date: 2019-01-07
-    text: Paper acceptance notification
-    pass_due: True
-  - date: 2019-01-31
-    timezone: 11:59PM EDT
-    text: Paper deadline
-    pass_due: True
-  - date: 2019-01-31
-    timezone: 11:59PM EDT
-    text: WiPP deadline
-    pass_due: True
-  - date: 2019-02-01
-    text: Early Career Investigator Award deadline
-    pass_due: True
-  - date: 2019-02-08
-    text: WiPP notification
-    pass_due: True
-  - date: 2019-02-20
-    text: Early registration deadline
-    pass_due: True
-  - date: 2019-03-08
-    text: Art competition deadline
-    pass_due: False
-  - date: 2019-03-17
-    text: Full registration deadline
-    pass_due: False
+  # - date: 2018-12-13
+  #   timezone: 11:59PM EDT
+  #   text: Abstract deadline
+  #   pass_due: True
 
 news:
-  - date: 2018-08-31
-    text: Website online
-  - date: 2019-02-22
-    text: Draft presentation schedule available
+  - date: 2019-02-25
+    text: Draft website online
 
 sponsors:
-  - name: Caltech Division of Engineering and Applied Sciences
-    url: http://eas.caltech.edu
-    logo_path: ./assets/images/Caltech-EAS-logo.png
-    level: platinum
-  - name: Caltech Department of Mechanical and Civil Engineering
-    url: http://www.mce.caltech.edu
-    logo_path: ./assets/images/mce-logo.png
-    level: gold
-  - name: Telops
-    url: https://telops.com
-    logo_path: ./assets/images/telops-logo.png
-    level: sponsor
-  - name: Photron
-    url: https://photron.com
-    logo_path: ./assets/images/photron-logo.png
-    level: sponsor
-  - name: USC Viterbi School of Engineering
-    url: https://viterbischool.usc.edu
-    logo_path: ./assets/images/usc-logo.png
-    level: platinum
-  - name: Exponent
-    url: https://www.exponent.com
-    level: sponsor
-    logo_path: ./assets/images/exponent-logo.png
+#  - name: Caltech Division of Engineering and Applied Sciences
+#    url: http://eas.caltech.edu
+#    logo_path: ./assets/images/Caltech-EAS-logo.png
+#    level: platinum
 
 social_media:
   facebook_link:
@@ -111,12 +63,12 @@ program_chairs:
     homepage: https://chemicalengineering.byu.edu/index.php/cb-profile/dol4
 
 host_committee:
-  - name: Guillaume Blanquart
-    org: Caltech
-    homepage: http://eas.caltech.edu/people/gblanqu
-  - name: Paul Ronney
-    org: University of Southern California
-    homepage: http://ronney.usc.edu
+#  - name: Guillaume Blanquart
+#    org: Caltech
+#    homepage: http://eas.caltech.edu/people/gblanqu
+#  - name: Paul Ronney
+#    org: University of Southern California
+#    homepage: http://ronney.usc.edu
 
 technical_program_committee:
   # put list of people on technical committee here
