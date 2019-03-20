@@ -5,9 +5,18 @@ slide_id: 0
 ---
 
 <p class="lead">
-The 11th US NCM will be held on 24-27 March 2019 in Pasadena, CA, USA.
+The Fall Meeting of the Western States will be held on 14-15 October 2019 in Albuquerque, NM.
 </p>
 
-The US National Combustion Meeting is the premier combustion science meeting in the US and has been organized biennially since 1999 by the joint [US Sections of The Combustion Institute](https://www.ussci.org) (the [Western States Section](https://www.wssci.us) or WSSCI, the [Eastern States Section](https://essci.engr.uconn.edu/) or ESSCI, and the [Central States Section](https://www.cssci.org) or CSSCI). The 11th US National Combustion Meeting is hosted by [Caltech](https://www.caltech.edu), [USC](https://www.usc.edu), and the WSSCI.
-
-We expect more than 600 students, scientists, and engineers at the meeting, representing the leading edge of combustion research in the United States. The meeting will begin on Sunday afternoon, March 24, with a Welcome Reception and will end mid-day on Wednesday, March 27. The technical program will include three invited plenary lectures, oral presentations of more than 400 papers during multiple parallel sessions, and one poster session.
+The Western States Section Combustion Institute (WSSCI) is a non-profit educational and scientific society whose purpose is to promote the science and application of combustion for the benefit of society. It was incorporated on December 10, 2014 in the State of Delaware, United States of America. The WSSCI is composed of all members of The Combustion Institute resident in the States of Alaska, Arizona, California, Colorado, Hawaii, Idaho, Montana, Nevada, New Mexico, Oregon, Utah, Washington, Wyoming, and the Pacific territories of the United States, without obligation upon the part of any member so included. All activities of WSSCI are carried out in coordination with [The Combustion Institute (CI)](https://www.ussci.org). 
+<p>
+  <b><u>Key Dates</b></u><br>
+Abstract Deadline: July 31, 2019<br>
+Paper Submission Deadline: August 31, 2019<br>
+Early Regsistraction Deadline: September 1, 2019<br>
+Student Award Deadline: September 1, 2019<br>
+<p>
+For additional information, please contact:<br>
+John Hewson, jchewso@sandia.gov<br>
+Sarah Scott, snscott@sandia.gov<br>
+Kathy Loeppky, kloeppk@sandia.gov<br>
