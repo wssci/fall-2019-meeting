@@ -4,9 +4,7 @@ layout: page
 slide_id: 2
 ---
 
-Papers are solicited for the 2019 meeting of the Western States Section of the Combustion Insititue.
-
-Paper and poster abstracts and accepted full papers must be submitted through The Combustion Institute website at <https://www.combustioninstitute.org/ci-event/11th-us-national-combustion-meeting/>
+Papers are solicited for the 2019 meeting of the Western States Section of the Combustion Institute.
 
 Papers should be submitted to one of the following colloquium topics:
 
@@ -24,4 +22,5 @@ Papers should be submitted to one of the following colloquium topics:
 - Internal Combustion and Gas Turbine Engines
 - Microcombustion and New Combustion Devices
 
-Paper abstracts should be 150-200 words and include 2-4 keywords and are due July 31st. Instructions for formatting the full paper (5 page minimum) submissions are available at the [meeting website](./submission.html).
+Paper abstracts should be 150-200 words and include 2-4 keywords and are due July 31st.
+Instructions for formatting the full paper (5 page minimum) submissions are available at the [meeting website](./submission.html).

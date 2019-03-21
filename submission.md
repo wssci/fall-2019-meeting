@@ -10,7 +10,7 @@ Submit a short abstract (150--200 words and 2--4 keywords) through [The Combusti
 
 #### Paper Submission
 
-Submit a full paper (ten-page limit) through [The Combustion Institute website <i class="fa fa-external-link fa-fw" aria-hidden="true"></i>](https://ams.combustioninstitute.org/).
+Submit a full paper (minimum five pages) through [The Combustion Institute website <i class="fa fa-external-link fa-fw" aria-hidden="true"></i>](https://ams.combustioninstitute.org/).
 
 Submission steps:
 
