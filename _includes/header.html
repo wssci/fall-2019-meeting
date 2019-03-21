@@ -24,6 +24,7 @@
 
           <div id="myCarousel" class="carousel slide" data-ride="carousel">
 
+            {% if site.data.conference.slideshow %}
             <div class="carousel-inner" role="listbox">
               {% assign min = 0 %}
               {% assign max = site.data.conference.slideshow.size %}
@@ -48,6 +49,7 @@
               {% endfor %}
             </div>
           </div>
+          {% endif %}
         </div>
     </div>
 

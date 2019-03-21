@@ -36,7 +36,7 @@
                       {% if site.data.conference.host_committee %}
                       {% for person in site.data.conference.host_committee %}
                       <div class="card-block bg-faded committee">
-                          <p><a href="{{ person.homepage }}"><strong>{{ person.name }}</strong></a><p>
+                          <p><a href="mailto:{{ person.email }}"><strong>{{ person.name }}</strong></a><p>
                           <p class="card-subtitle text-muted" style="font-size: 90%;">{{ person.org }}</p>
                       </div>
                       {% endfor %}

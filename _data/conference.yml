@@ -10,12 +10,12 @@ program_link:
 
 logo_path: ./assets/images/WSSCI-Logo-web.png
 slideshow:
-  # - id: 0
-  #   image_path: ./assets/images/slideshow/image0.jpg
-  #   description: Pasadena City Hall
-  #   photographer_name: Michael Chen
-  #   photographer_link: https://www.flickr.com/photos/mikechen-metalman/
-  #   active: True
+ - id: 0
+   image_path: ./assets/images/slideshow/image0.png
+   description:
+   photographer_name:
+   photographer_link: 
+   active: True
   # - id: 1
   #   image_path: ./assets/images/slideshow/image1.jpg
   #   description: Huntington Library & Botanical Gardens - Pasadena, California
@@ -38,14 +38,26 @@ slideshow:
   #   photographer_link: https://www.flickr.com/photos/acordova/
 
 deadlines:
-  # - date: 2018-12-13
-  #   timezone: 11:59PM EDT
-  #   text: Abstract deadline
-  #   pass_due: True
+ - date: 2019-07-31
+   timezone: 11:59PM PDT
+   text: Abstract deadline
+   pass_due: False
+ - date: 2019-08-31
+   timezone: 11:59PM PDT
+   text: Paper submission deadline
+   pass_due: False
+ - date: 2019-09-01
+   timezone: 11:59PM PDT
+   text: Early registration deadline
+   pass_due: False
+ - date: 2019-09-01
+   timezone: 11:59PM PDT
+   text: Student travel award deadline
+   pass_due: False
 
 news:
-  - date: 2019-02-25
-    text: Draft website online
+  - date: 2019-03-21
+    text: Website online
 
 sponsors:
 #  - name: Caltech Division of Engineering and Applied Sciences
@@ -63,12 +75,15 @@ program_chairs:
     homepage: https://chemicalengineering.byu.edu/index.php/cb-profile/dol4
 
 host_committee:
-#  - name: Guillaume Blanquart
-#    org: Caltech
-#    homepage: http://eas.caltech.edu/people/gblanqu
-#  - name: Paul Ronney
-#    org: University of Southern California
-#    homepage: http://ronney.usc.edu
+  - name: John Hewson
+    org: Sandia National Laboratory
+    email: jchewso@sandia.gov
+  - name: Sarah Scott
+    org: Sandia National Laboratory
+    email: snscott@sandia.gov
+  - name: Kathy Loeppky
+    email: kloeppk@sandia.gov
+    org: Sandia National Laboratory
 
 technical_program_committee:
   # put list of people on technical committee here

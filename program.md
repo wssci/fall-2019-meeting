@@ -4,27 +4,7 @@ layout: page
 slide_id: 4
 ---
 
-### Draft program
-[<i class="fa fa fa-file-pdf-o" aria-hidden="true"></i> Draft schedule](./assets/11th-USNCM-Presentation-Listing.pdf)
-
 ##### Program Overview
-
-- Saturday
-  * All day: [Workshop for Early Career Faculty in Combustion](https://combustion-community.github.io/workshop-2019/)
-- Sunday
-  * Morning: [Workshop for Early Career Faculty in Combustion](https://combustion-community.github.io/workshop-2019/)
-  * Afternoon: [Cantera workshop](https://cantera.github.io/ncm-2019-workshop/)
-  * Afternoon: Career opportunity: [Exponent](https://www.exponent.com/) info session
-  * Evening: Welcome reception
-- Monday
-  * Lunch: Section meetings
-  * Evening: Mentoring mixer
-- Tuesday
-  * Lunch: Women in Combustion (WiC) (for female-identifying conference participants only)
-  * Evening: Banquet at the [California Science Center under the Endeavor Space Shuttle](https://californiasciencecenter.org/exhibits/air-space/space-shuttle-endeavour)
-- Wednesday
-  * Morning: [JPL](https://www.jpl.nasa.gov/) lab tour (9:30 am to 12:00 pm)
-  * Afternoon: [JPL](https://www.jpl.nasa.gov/) lab tour (1:00 pm to 3:30 pm)
 
 {% if site.data.conference.program_link %}
 [<i class="fa fa-external-link fa-fw" aria-hidden="true"></i>**Printed program**]({{ site.data.conference.program_link }})
