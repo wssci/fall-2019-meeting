@@ -22,10 +22,13 @@ The conference will be held at the Albuquerque Marriott Hotel. Located in the Up
 Discounted accommodations for meeting participants have been reserved at the same location at the conference.
 
 ##### Albuquerque Marriott Hotel
-<i class="fa fa-map-marker mr-3" aria-hidden="true"></i>[2100 Louisiana Boulevard NE Albuquerque, NM](https://goo.gl/maps/tkCnj4DMTaL2)<br />
+<i class="fa fa-map-marker mr-3" aria-hidden="true"></i>[2101 Louisiana Boulevard NE Albuquerque, NM](https://goo.gl/maps/tkCnj4DMTaL2)<br />
 Phone: (505) 881-6800<br />
 Rate: $94/night plus applicable taxes.<br />
-Link: <https://www.marriott.com/hotels/travel/abqnm-albuquerque-marriott/><br />
+Start date: 10/13/19<br />
+End date: 10/15/19<br />
+<b>Last day to book: 10/7/19</b> <br />
+<a href = "https://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=Western%20States%20Section%20Meeting%20with%20the%20Combustion%20Institute(%20WSSCI)%5EABQNM%60WSMWSMA%7CWSMWSMB%6094.00%60USD%60false%604%6010/13/19%6010/15/19%6010/7/19&app=resvlink&stop_mobi=yes/" target="_blank">Link to Book Discounted Room </a>
 
 #### Travel
 
@@ -35,11 +38,6 @@ Car rentals are avabile at the airport.
 
 A Lyft ride from the airport to the conference hotel is ~$20. 
 
-Complimentary airport shuttle service is offered by conference hotel, on request <br/>
-Mon-Sun: 06:00 AM - 10:00 PM <br/>
-Shuttle Phone: +1 505 242-2844
-
-
-#### Directions to venue
+#### Location of venue
 
 [<img class="img-fluid" src="./assets/images/directions.png" alt="direction">](https://goo.gl/maps/Ut8SgAc3ALn)

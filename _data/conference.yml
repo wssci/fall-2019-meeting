@@ -15,7 +15,7 @@ slideshow:
    description:
    photographer_name:
    photographer_link: 
-   active: True
+   active: true
   # - id: 1
   #   image_path: ./assets/images/slideshow/image1.jpg
   #   description: Huntington Library & Botanical Gardens - Pasadena, California
