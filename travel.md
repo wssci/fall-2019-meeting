@@ -27,7 +27,7 @@ Phone: (505) 881-6800<br />
 Rate: $94/night plus applicable taxes.<br />
 Start date: 10/13/19<br />
 End date: 10/15/19<br />
-<b>Last day to book: 10/7/19</b> <br />
+<b>Last day to book: 9/30/19</b> <br />
 <a href = "https://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=Western%20States%20Section%20Meeting%20with%20the%20Combustion%20Institute(%20WSSCI)%5EABQNM%60WSMWSMA%7CWSMWSMB%6094.00%60USD%60false%604%6010/13/19%6010/15/19%6010/7/19&app=resvlink&stop_mobi=yes/" target="_blank">Link to Book Discounted Room </a>
 
 #### Travel
