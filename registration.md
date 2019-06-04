@@ -20,7 +20,7 @@ Registration fees include admission to all technical sessions, a delegate confer
 
 The difference in registration fees between members and non-members is used to register non-members to their respective section of the Combustion Institute (for a duration of two years).
 
-##### Deadlines
+#### Deadlines
 
 Early registration ends on **September 1**.
 <br>

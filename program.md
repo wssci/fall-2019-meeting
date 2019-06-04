@@ -4,12 +4,12 @@ layout: page
 slide_id: 4
 ---
 
-##### Program Overview
+#### Program Overview
 
 {% if site.data.conference.program_link %}
 [<i class="fa fa-external-link fa-fw" aria-hidden="true"></i>**Printed program**]({{ site.data.conference.program_link }})
 
-##### Technical Program
+#### Technical Program
 {% else %}
 ##### October 14th
 The techincal program will be a full day on Monday, concluding in an evening reception. Breakfast, lunch, and coffee breaks will be included Monday.
