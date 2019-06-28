@@ -46,11 +46,11 @@ deadlines:
    timezone: 11:59PM PDT
    text: Paper submission deadline
    pass_due: False
- - date: 2019-09-01
+ - date: 2019-09-13
    timezone: 11:59PM PDT
    text: Early registration deadline
    pass_due: False
- - date: 2019-09-01
+ - date: 2019-09-13
    timezone: 11:59PM PDT
    text: Student travel award deadline
    pass_due: False

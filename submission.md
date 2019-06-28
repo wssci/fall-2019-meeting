@@ -6,7 +6,7 @@ slide_id: 3
 
 #### Abstract Submission Opens July 1, 2019
 
-Submit a short abstract (150--200 words and 2--4 keywords) through [The Combustion Institute website <i class="fa fa-external-link fa-fw" aria-hidden="true"></i>](https://ams.combustioninstitute.org/).
+Submit a short abstract (100--200 words and 2--4 keywords) through [The Combustion Institute website <i class="fa fa-external-link fa-fw" aria-hidden="true"></i>](https://ams.combustioninstitute.org/).
 
 
 

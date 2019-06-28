@@ -1,10 +1,10 @@
----
+﻿---
 title: Code of Conduct
 layout: page
 slide_id: 0
 ---
 
-The Executive Committee of the Western States Sections of the Combustion Institute
+The Executive Committee of the Western States Sections of The Combustion Institute
 approved this Code of Conduct, March 24th, 2019. This document complements the Code
 of Ethics adopted by the Board of Directors of The Combustion Institute, 23 March 2017.
 
@@ -48,7 +48,7 @@ outside of the WSSCI, including filing a report with their home institution or t
 
 The WSSCI does not tolerate any kind of retaliation against an individual filing a 
 report or assisting in the resolution of a report of prohibited behavior (even if no 
-responsive action is taken). Retal‐ iation is a violation of the Code of Conduct. 
+responsive action is taken). Retaliation is a violation of the Code of Conduct. 
 The WSSCI takes reports of retaliation very seriously. Anyone who experiences or 
 witnesses retaliation in any form should report it immediately to the Chair and the 
 Vice Chair.

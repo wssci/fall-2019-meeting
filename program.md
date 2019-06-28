@@ -12,11 +12,11 @@ slide_id: 4
 #### Technical Program
 {% else %}
 ##### October 14th
-The techincal program will be a full day on Monday, concluding in an evening reception. Breakfast, lunch, and coffee breaks will be included Monday.
+The technical program will be a full day on Monday, concluding in an evening reception. Breakfast, lunch, and coffee breaks will be included Monday.
 ##### October 15th 
-The techincal program will be a half day, ending no later that 1pm. Breakfast and a coffee break will be included Tuesday. 
-##### Techincal Program
-A draft of the techincal program will be avaible in October. 
+The technical program will be a half day, ending no later that 1pm. Breakfast and a coffee break will be included Tuesday. 
+##### Technical Program
+A draft of the technical program will be avaible in October. 
 
 {% endif %}
 
