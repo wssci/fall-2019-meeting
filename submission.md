@@ -8,7 +8,13 @@ slide_id: 3
 
 Submit a short abstract (100--200 words and 2--4 keywords) through [The Combustion Institute website <i class="fa fa-external-link fa-fw" aria-hidden="true"></i>](https://ams.combustioninstitute.org/).
 
+Submission steps:
 
+1. Log in your account
+2. Click on the "Submissions" tab
+3. Select the event name from the Available Event pulldown menu
+4. Select Add Abstract
+5. Complete necessary fields
 
 #### Paper Submission Opens August 12, 2019
 
