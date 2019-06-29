@@ -8,9 +8,9 @@ slide_id: 5
 | Participant Type   | &nbsp; | Early Registration | &nbsp; | Full Registration |
 |:-------------------|:------:|:------------------:|:------:|:-----------------:|:------:|
 | Regular Member     | &nbsp; |        $360        | &nbsp; |       $460        | 
-| Student Member     | &nbsp; |        $160        | &nbsp; |       $210        | 
+| Student Member     | &nbsp; |        $170        | &nbsp; |       $220        | 
 | Regular Non-member | &nbsp; |        $440        | &nbsp; |       $540        | 
-| Student Non-member | &nbsp; |        $180        | &nbsp; |       $250        | 
+| Student Non-member | &nbsp; |        $190        | &nbsp; |       $240        | 
 
 &nbsp;
 
