@@ -3,7 +3,7 @@ short_title: WSSCI F2019
 email: webmaster@wssci.us
 program_chair_email: davidlignell@byu.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Fall Technical Meeting of the Western States Section of the Combustion Institute
+  Fall Technical Meeting of the Western States Section of The Combustion Institute
 location: Albuquerque, NM, USA
 date: Fall 2019
 program_link:
@@ -76,14 +76,14 @@ program_chairs:
 
 host_committee:
   - name: John Hewson
-    org: Sandia National Laboratory
+    org: Sandia National Laboratories
     email: jchewso@sandia.gov
   - name: Sarah Scott
-    org: Sandia National Laboratory
+    org: Sandia National Laboratories
     email: snscott@sandia.gov
   - name: Kathy Loeppky
     email: kloeppk@sandia.gov
-    org: Sandia National Laboratory
+    org: Sandia National Laboratories
 
 technical_program_committee:
   # put list of people on technical committee here
