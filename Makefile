@@ -4,6 +4,5 @@ build:
 serve:
 	bundle exec jekyll serve
 
-publish:
-	build
-	# rsync -avzc --delete _site/ /Users/syi/Dropbox/research-homepage/src/hotweb2017/
+publish: build
+	rsync -e ssh -hav --progress _site/ --compress kyleniemeyer@cavejunction.dreamhost.com:~/wssci.us/meetings/f2019
