@@ -22,5 +22,5 @@ Papers should be submitted to one of the following colloquium topics:
 - Internal Combustion and Gas Turbine Engines
 - Microcombustion and New Combustion Devices
 
-Paper abstracts should be 100-200 words and include 2-4 keywords and are due July 31st.
+Paper abstracts should be 100-200 words and include 2-4 keywords and are due July 31st. (**Extended to August 5th**)
 Instructions for formatting the full paper (5 page minimum) submissions are available at the [meeting website](./submission.html).

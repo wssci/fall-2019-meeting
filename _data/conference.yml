@@ -38,7 +38,7 @@ slideshow:
   #   photographer_link: https://www.flickr.com/photos/acordova/
 
 deadlines:
- - date: 2019-07-31
+ - date: 2019-08-05
    timezone: 11:59PM PDT
    text: Abstract deadline
    pass_due: False
@@ -56,6 +56,8 @@ deadlines:
    pass_due: False
 
 news:
+  - date: 2019-07-31
+    text: Abstract deadlin extended to Aug 5
   - date: 2019-03-21
     text: Website online
 

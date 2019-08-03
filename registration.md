@@ -4,7 +4,7 @@ layout: page
 slide_id: 5
 ---
 
-| Participant Type   | &nbsp; | Early Registration | &nbsp; | Full Registration |
+| Participant Type   | &nbsp; | Early Registration | &nbsp; | Late Registration |
 |:-------------------|:------:|:------------------:|:------:|:-----------------:|:------:|
 | Regular Member     | &nbsp; |        $300        | &nbsp; |       $400        | 
 | Student Member     | &nbsp; |        $150        | &nbsp; |       $200        | 

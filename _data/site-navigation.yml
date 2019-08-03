@@ -31,6 +31,10 @@ navbar:
     label: Code of Conduct
     path: /codeofconduct.html
     visible: True
+  - id: 8
+    label: Activities
+    path: /activities.html
+    visible: True
 
 awards:
 #  - id: 0
