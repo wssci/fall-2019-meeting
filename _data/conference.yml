@@ -41,7 +41,7 @@ deadlines:
  - date: 2019-08-05
    timezone: 11:59PM PDT
    text: Abstract deadline
-   pass_due: False
+   pass_due: True
  - date: 2019-08-31
    timezone: 11:59PM PDT
    text: Paper submission deadline
@@ -57,7 +57,7 @@ deadlines:
 
 news:
   - date: 2019-07-31
-    text: Abstract deadlin extended to Aug 5
+    text: Abstract deadline extended to Aug 5
   - date: 2019-03-21
     text: Website online
 
