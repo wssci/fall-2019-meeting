@@ -34,7 +34,7 @@ End date: 10/15/19<br />
 
 Albuquerque is served by the Albuquerque International Sunport (ABQ). 
 
-Car rentals are avabile at the airport. 
+Car rentals are available at the airport. 
 
 A Lyft ride from the airport to the conference hotel is ~$20. 
 
