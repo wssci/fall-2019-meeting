@@ -45,17 +45,27 @@ deadlines:
  - date: 2019-08-31
    timezone: 11:59PM PDT
    text: Paper submission deadline
-   pass_due: False
+   pass_due: True
  - date: 2019-09-13
    timezone: 11:59PM PDT
    text: Early registration deadline
-   pass_due: False
+   pass_due: True
  - date: 2019-09-13
    timezone: 11:59PM PDT
    text: Student travel award deadline
+   pass_due: True
+  - date: 2019-09-90
+   timezone: 11:59PM PDT
+   text: Last day to book discounted hotel room
+   pass_due: False  
+ - date: 2019-10-04
+   timezone: 11:59PM PDT
+   text: Late registration deadline
    pass_due: False
 
 news:
+  - date: 2019-09-23
+    text: More hotel rooms added to the block
   - date: 2019-08-16
     text: Student Travel Award details now available
   - date: 2019-07-31
