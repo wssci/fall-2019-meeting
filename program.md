@@ -4,18 +4,14 @@ layout: page
 slide_id: 4
 ---
 
-{% if site.data.conference.program_link %}
-### Final program
-[<i class="fa fa fa-file-pdf-o" aria-hidden="true"></i> Download program PDF]({{ site.data.conference.program_link }})
-{% endif %}
-
 #### Program Overview
 
 {% if site.data.conference.program_link %}
 [<i class="fa fa-external-link fa-fw" aria-hidden="true"></i>**Printed program**]({{ site.data.conference.program_link }})
 
-#### Technical Program
 {% else %}
+#### Technical Program
+
 ##### October 14th
 The technical program will be a full day on Monday, concluding in an evening reception. Breakfast, lunch, and coffee breaks will be included Monday.
 ##### October 15th 
