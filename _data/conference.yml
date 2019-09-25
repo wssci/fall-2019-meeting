@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Fall Technical Meeting of the Western States Section of The Combustion Institute
 location: Albuquerque, NM, USA
 date: Fall 2019
-program_link:
+program_link: ./assets/2019-WSSCI-Fall-Program-Draft-920.pdf
 
 logo_path: ./assets/images/WSSCI-Logo-web.png
 slideshow:
@@ -54,7 +54,7 @@ deadlines:
    timezone: 11:59PM PDT
    text: Student travel award deadline
    pass_due: True
-  - date: 2019-09-90
+ - date: 2019-09-90
    timezone: 11:59PM PDT
    text: Last day to book discounted hotel room
    pass_due: False  

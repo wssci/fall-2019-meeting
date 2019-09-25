@@ -4,6 +4,11 @@ layout: page
 slide_id: 4
 ---
 
+{% if site.data.conference.program_link %}
+### Final program
+[<i class="fa fa fa-file-pdf-o" aria-hidden="true"></i> Download program PDF]({{ site.data.conference.program_link }})
+{% endif %}
+
 #### Program Overview
 
 {% if site.data.conference.program_link %}
