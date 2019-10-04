@@ -54,11 +54,11 @@ deadlines:
    timezone: 11:59PM PDT
    text: Student travel award deadline
    pass_due: True
- - date: 2019-09-90
+ - date: 2019-09-30
    timezone: 11:59PM PDT
    text: Last day to book discounted hotel room
-   pass_due: False  
- - date: 2019-10-04
+   pass_due: True
+ - date: 2019-10-09
    timezone: 11:59PM PDT
    text: Late registration deadline
    pass_due: False

@@ -23,4 +23,4 @@ The difference in registration fees between members and non-members is used to r
 
 Early registration ends on **September 13**.
 <br>
-Late registration ends on **October 4**.
+Late registration ends on **October 9**.
