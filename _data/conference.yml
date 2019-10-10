@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Fall Technical Meeting of the Western States Section of The Combustion Institute
 location: Albuquerque, NM, USA
 date: Fall 2019
-program_link: ./assets/2019-WSSCI-Fall-Program-Draft-920.pdf
+program_link: ./assets/2019-WSSCI-Fall-Program-final.pdf
 
 logo_path: ./assets/images/WSSCI-Logo-web.png
 slideshow:
@@ -14,7 +14,7 @@ slideshow:
    image_path: ./assets/images/slideshow/image0.png
    description:
    photographer_name:
-   photographer_link: 
+   photographer_link:
    active: true
   # - id: 1
   #   image_path: ./assets/images/slideshow/image1.jpg
