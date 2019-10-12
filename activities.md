@@ -4,6 +4,23 @@ layout: page
 slide_id: 8
 ---
 
+**Young Researchers Mixer**
+
+A no host Taco Monday for young professionals will take place after the reception. $3-4 tacos and $3-6 local beers. All are welcome. 
+
+Time: After the reception on Monday 10/14 (7pm-9pm)
+
+Location: B2B2 Barrio Uptown 2201 Louisiana Blvd NE
+
+**Cantera Workshop**
+
+All are welcome, no pre-resgistation requried.  
+
+Time: 1:15pm on Tuesday 10/15
+
+Location: Salons C-D
+
+
 **Tour of Sandia National Laboratories Thermal Test Complex**
 
 The Thermal Test Complex (TTC) was designed to serve as an international resource for validation of fire physics models as well as the nuclear weapons complex hardware qualification facility for fires.  Experimental fire research, validated modeling tools, and phenomenological model development capabilities form the basis of an integrated capability to solve high-consequence problems in fire prevention, fire consequence analysis, and fire mitigation (firefighting).
