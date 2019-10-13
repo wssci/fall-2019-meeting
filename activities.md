@@ -14,9 +14,9 @@ Location: B2B2 Barrio Uptown 2201 Louisiana Blvd NE
 
 **Cantera Workshop**
 
-All are welcome, no pre-resgistation requried.  
+All are welcome, no pre-registration required. The workshop will introduce Cantera and show how to install it and perform some common tasks.
 
-Time: 1:15pm on Tuesday 10/15
+Time: 1:15-3 pm on Tuesday 10/15
 
 Location: Salons C-D
 
